@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    color: red;
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.type-container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: 10px;
+    width: 100%;
+    }
+.type-container input{
+    width: 300px;
+}
+
+/*a chatBox - messageLogs
