@@ -1,0 +1,1 @@
+Chat generado por gMR.
